@@ -1,0 +1,29 @@
+#logo{
+    height: 40px;
+    margin-right: 50px;
+}
+.nav-bar-text-color{
+    color: rgba(70, 155, 155) !important;
+}
+#mountain-img{
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+    top: 495px;
+    left: 0;
+}
+.card-ratio{
+    width: 27% !important;
+    display: inline-block;
+    margin-top: 250px;
+    background-color: rgb(188, 211, 194);
+}
+.first-card{
+    margin-left: 125px;
+}
+.button-color{
+    background-color: rgb(52, 55, 106);
+}
+body{
+    background-image: url(72270.jpg);
+}
